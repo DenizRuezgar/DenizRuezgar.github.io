@@ -1,0 +1,41 @@
+{
+  "name": "Parking PWA",
+  "short_name": "Parking PWA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffdd80",
+  "theme_color": "#ffd663",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/Parkplatz512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icons/Parkplatz192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/Parkplatz144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icons/Parkplatz96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/icons/Parkplatz72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/icons/Parkplatz48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ]
+}
